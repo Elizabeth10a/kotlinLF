@@ -1,6 +1,7 @@
 package kT.OOP
 
-import kT.OOP.OC.OperatorOverload
+import kT.OOP.ADT.OperatorOverload
+
 
 /*-*- coding:utf-8 -*-
 * @Author  : ygree 
@@ -25,6 +26,7 @@ enum class Directions(private val opp: OperatorOverload) {
 }
 
 enum class LicenseStatus {
+    //枚举--->添加属性-->密封
     UNQUALIFIED,//不合格，
     LEARING,
     QUALIFIED;

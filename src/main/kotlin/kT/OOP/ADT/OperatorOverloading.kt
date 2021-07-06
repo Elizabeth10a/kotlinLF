@@ -1,4 +1,4 @@
-package kT.OOP.ClassTypes
+package kT.OOP.ADT
 
 /*-*- coding:utf-8 -*-
 * @Author  : ygree 
