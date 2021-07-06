@@ -1,4 +1,4 @@
-package kT.OOP.succeedAndPolymorphism
+package kT.OOP.OC
 
 /*-*- coding:utf-8 -*-
 * @Author  : ygree 
